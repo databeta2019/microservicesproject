@@ -1,3 +1,6 @@
+# Example:
+[![databeta2019](https://circleci.com/gh/databeta2019/microservicesproject.svg?style=svg)](https://app.circleci.com/pipelines/github/databeta2019/microservicesproject)
+
 <include a CircleCI status badge, here>
 
 ## Project Overview

@@ -18,4 +18,3 @@ kubectl get pods
 # Step 4:
 # Forward the container port to a host
 kubectl port-forward deployment.apps/app-deployed2 8000:80
-
